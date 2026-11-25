@@ -1,0 +1,1027 @@
+{
+ "list": "awesome-open-design",
+ "updated": "2026-11-26",
+ "entries": [
+  {
+   "name": "Penpot",
+   "url": "https://penpot.app",
+   "repo": "penpot/penpot",
+   "desc": "Self-hostable vector design and prototyping tool built on SVG and CSS, with real-time collaboration",
+   "license": "MPL-2.0",
+   "stars": 62738,
+   "pushed": "2026-11-25",
+   "category": "Design & prototyping tools"
+  },
+  {
+   "name": "Inkscape",
+   "url": "https://inkscape.org",
+   "repo": null,
+   "desc": "Desktop vector editor on native SVG; its command-line mode also exports and converts files in scripts",
+   "license": "GPL-2.0",
+   "stars": null,
+   "pushed": null,
+   "category": "Design & prototyping tools"
+  },
+  {
+   "name": "Krita",
+   "url": "https://krita.org",
+   "repo": "KDE/krita",
+   "desc": "Painting and illustration app with brush engines, layers and animation, built for artists",
+   "license": "GPL-3.0",
+   "stars": 10809,
+   "pushed": "2026-11-25",
+   "category": "Design & prototyping tools"
+  },
+  {
+   "name": "GIMP",
+   "url": "https://www.gimp.org",
+   "repo": "GNOME/gimp",
+   "desc": "Long-running raster photo editor with layers, masks, filters and a plug-in system",
+   "license": "GPL-3.0",
+   "stars": 6624,
+   "pushed": "2026-11-25",
+   "category": "Design & prototyping tools"
+  },
+  {
+   "name": "Blender",
+   "url": "https://www.blender.org",
+   "repo": "blender/blender",
+   "desc": "3D modelling, sculpting, rendering and animation suite; also good for product mockups and motion",
+   "license": "GPL-2.0",
+   "stars": 22542,
+   "pushed": "2026-11-25",
+   "category": "Design & prototyping tools"
+  },
+  {
+   "name": "Excalidraw",
+   "url": "https://excalidraw.com",
+   "repo": "excalidraw/excalidraw",
+   "desc": "Hand-drawn style whiteboard that runs in the browser and embeds as a React component",
+   "license": "MIT",
+   "stars": 136301,
+   "pushed": "2026-11-25",
+   "category": "Design & prototyping tools"
+  },
+  {
+   "name": "Graphite",
+   "url": "https://graphite.rs",
+   "repo": "GraphiteEditor/Graphite",
+   "desc": "Rust-built vector and raster editor with a node-based, non-destructive workflow",
+   "license": "Apache-2.0",
+   "stars": 28031,
+   "pushed": "2026-11-25",
+   "category": "Design & prototyping tools"
+  },
+  {
+   "name": "draw.io (diagrams.net)",
+   "url": "https://www.drawio.com",
+   "repo": "jgraph/drawio",
+   "desc": "Diagram editor that works offline and self-hosts, with a large shape library",
+   "license": "Apache-2.0",
+   "stars": 9581,
+   "pushed": "2026-11-25",
+   "category": "Design & prototyping tools"
+  },
+  {
+   "name": "Mermaid",
+   "url": "https://mermaid.js.org",
+   "repo": "mermaid-js/mermaid",
+   "desc": "Draws flowcharts, sequence and other diagrams from plain text definitions",
+   "license": "MIT",
+   "stars": 91253,
+   "pushed": "2026-11-25",
+   "category": "Design & prototyping tools"
+  },
+  {
+   "name": "D2",
+   "url": "https://d2lang.com",
+   "repo": "terrastruct/d2",
+   "desc": "Declarative diagram language that compiles text into SVG with several layout engines",
+   "license": "MPL-2.0",
+   "stars": 25915,
+   "pushed": "2026-11-25",
+   "category": "Design & prototyping tools"
+  },
+  {
+   "name": "drawDB",
+   "url": "https://www.drawdb.app",
+   "repo": "drawdb-io/drawdb",
+   "desc": "Browser database schema designer that exports SQL, no sign-up needed",
+   "license": "AGPL-3.0",
+   "stars": 40434,
+   "pushed": "2026-11-25",
+   "category": "Design & prototyping tools"
+  },
+  {
+   "name": "MyPaint",
+   "url": "https://mypaint.app",
+   "repo": "mypaint/mypaint",
+   "desc": "Lightweight painting app with an infinite canvas and pressure-sensitive brushes",
+   "license": "GPL-2.0",
+   "stars": 3005,
+   "pushed": "2026-10-20",
+   "category": "Design & prototyping tools"
+  },
+  {
+   "name": "Scribus",
+   "url": "https://www.scribus.net",
+   "repo": "scribusproject/scribus",
+   "desc": "Desktop publishing for print layouts, with CMYK colour and PDF export",
+   "license": "GPL-2.0",
+   "stars": 659,
+   "pushed": "2026-11-23",
+   "category": "Design & prototyping tools"
+  },
+  {
+   "name": "Open Peeps",
+   "url": "https://www.openpeeps.com",
+   "repo": null,
+   "desc": "Hand-drawn people library of mix-and-match heads, bodies and poses, by Pablo Stanley",
+   "license": "CC0-1.0",
+   "stars": null,
+   "pushed": null,
+   "category": "Open illustration libraries"
+  },
+  {
+   "name": "Open Doodles",
+   "url": "https://opendoodles.com",
+   "repo": null,
+   "desc": "Free sketchy doodle illustrations by Pablo Stanley, usable without credit",
+   "license": "CC0-1.0",
+   "stars": null,
+   "pushed": null,
+   "category": "Open illustration libraries"
+  },
+  {
+   "name": "Humaaans",
+   "url": "https://www.humaaans.com",
+   "repo": null,
+   "desc": "Build-your-own flat people illustrations from interchangeable parts; the site now states CC0",
+   "license": "CC0-1.0",
+   "stars": null,
+   "pushed": null,
+   "category": "Open illustration libraries"
+  },
+  {
+   "name": "Levni Folio",
+   "url": "https://levni.dev",
+   "repo": "Levni-Dev/levni",
+   "desc": "1,600+ drawings usable as SVG in several style packs; credit \"drawings by Ortak Alan\"",
+   "license": "CC BY 4.0",
+   "stars": 0,
+   "pushed": "2026-11-25",
+   "category": "Open illustration libraries"
+  },
+  {
+   "name": "Hero Patterns",
+   "url": "https://heropatterns.com",
+   "repo": null,
+   "desc": "Repeatable SVG background patterns with a CSS generator",
+   "license": "CC BY 4.0",
+   "stars": null,
+   "pushed": null,
+   "category": "Open illustration libraries"
+  },
+  {
+   "name": "OpenMoji",
+   "url": "https://www.openmoji.org",
+   "repo": "hfg-gmuend/openmoji",
+   "desc": "Open-source emoji and icon set drawn on one consistent grid",
+   "license": "CC BY-SA 4.0",
+   "stars": 4590,
+   "pushed": "2026-11-25",
+   "category": "Open illustration libraries"
+  },
+  {
+   "name": "Twemoji (community fork)",
+   "url": "https://github.com/jdecked/twemoji",
+   "repo": "jdecked/twemoji",
+   "desc": "Maintained fork of Twitter's emoji set as SVG and PNG",
+   "license": "MIT + CC BY 4.0",
+   "stars": 1934,
+   "pushed": "2026-06-01",
+   "category": "Open illustration libraries"
+  },
+  {
+   "name": "Noto Emoji",
+   "url": "https://github.com/googlefonts/noto-emoji",
+   "repo": "googlefonts/noto-emoji",
+   "desc": "Google's emoji artwork and colour emoji font sources",
+   "license": "OFL-1.1",
+   "stars": 5159,
+   "pushed": "2026-10-26",
+   "category": "Open illustration libraries"
+  },
+  {
+   "name": "Lucide",
+   "url": "https://lucide.dev",
+   "repo": "lucide-icons/lucide",
+   "desc": "Community fork of Feather with 1,500+ consistent stroke icons and packages for most frameworks",
+   "license": "ISC",
+   "stars": 26002,
+   "pushed": "2026-11-25",
+   "category": "Open icon sets"
+  },
+  {
+   "name": "Phosphor Icons",
+   "url": "https://phosphoricons.com",
+   "repo": "phosphor-icons/core",
+   "desc": "Flexible icon family in six weights, from thin to duotone",
+   "license": "MIT",
+   "stars": 408,
+   "pushed": "2026-01-06",
+   "category": "Open icon sets"
+  },
+  {
+   "name": "Tabler Icons",
+   "url": "https://tabler.io/icons",
+   "repo": "tabler/tabler-icons",
+   "desc": "Several thousand editable 24px stroke icons, delivered as SVG, font or React",
+   "license": "MIT",
+   "stars": 22819,
+   "pushed": "2026-11-25",
+   "category": "Open icon sets"
+  },
+  {
+   "name": "Heroicons",
+   "url": "https://heroicons.com",
+   "repo": "tailwindlabs/heroicons",
+   "desc": "Hand-crafted SVG icons by the Tailwind team in outline, solid and mini styles",
+   "license": "MIT",
+   "stars": 23922,
+   "pushed": "2026-05-12",
+   "category": "Open icon sets"
+  },
+  {
+   "name": "Iconoir",
+   "url": "https://iconoir.com",
+   "repo": "iconoir-icons/iconoir",
+   "desc": "Free icon library of 1,600+ SVG icons with packages for React, Vue and Flutter",
+   "license": "MIT",
+   "stars": 4691,
+   "pushed": "2026-11-21",
+   "category": "Open icon sets"
+  },
+  {
+   "name": "Iconify",
+   "url": "https://iconify.design",
+   "repo": "iconify/iconify",
+   "desc": "One API and tooling over 200+ open icon sets; each set keeps its own licence",
+   "license": "MIT",
+   "stars": 6416,
+   "pushed": "2026-11-25",
+   "category": "Open icon sets"
+  },
+  {
+   "name": "Radix Icons",
+   "url": "https://icons.radix-ui.com",
+   "repo": "radix-ui/icons",
+   "desc": "Crisp 15x15 icon set made for dense interfaces",
+   "license": "MIT",
+   "stars": 2713,
+   "pushed": "2026-04-02",
+   "category": "Open icon sets"
+  },
+  {
+   "name": "Bootstrap Icons",
+   "url": "https://icons.getbootstrap.com",
+   "repo": "twbs/icons",
+   "desc": "2,000+ SVG icons, usable as sprite, font or inline SVG",
+   "license": "MIT",
+   "stars": 8193,
+   "pushed": "2026-11-23",
+   "category": "Open icon sets"
+  },
+  {
+   "name": "Material Design Icons",
+   "url": "https://fonts.google.com/icons",
+   "repo": "google/material-design-icons",
+   "desc": "Google's Material Symbols and legacy icons as SVG and variable font",
+   "license": "Apache-2.0",
+   "stars": 54369,
+   "pushed": "2026-10-23",
+   "category": "Open icon sets"
+  },
+  {
+   "name": "Ionicons",
+   "url": "https://ionic.io/ionicons",
+   "repo": "ionic-team/ionicons",
+   "desc": "Outline, filled and sharp icons for web, iOS and Android",
+   "license": "MIT",
+   "stars": 18267,
+   "pushed": "2026-11-19",
+   "category": "Open icon sets"
+  },
+  {
+   "name": "Simple Icons",
+   "url": "https://simpleicons.org",
+   "repo": "simple-icons/simple-icons",
+   "desc": "Single-colour SVG logos of popular brands; brand marks stay trademarks of their owners",
+   "license": "CC0-1.0",
+   "stars": 26268,
+   "pushed": "2026-11-24",
+   "category": "Open icon sets"
+  },
+  {
+   "name": "game-icons.net",
+   "url": "https://game-icons.net",
+   "repo": "game-icons/icons",
+   "desc": "4,000+ one-colour icons for games and illustrations, recolourable online",
+   "license": "CC BY 3.0",
+   "stars": 1373,
+   "pushed": "2026-04-23",
+   "category": "Open icon sets"
+  },
+  {
+   "name": "Google Fonts",
+   "url": "https://fonts.google.com",
+   "repo": "google/fonts",
+   "desc": "Large catalogue of web and print fonts, all downloadable and self-hostable",
+   "license": "OFL-1.1",
+   "stars": 20804,
+   "pushed": "2026-11-25",
+   "category": "Open fonts & type"
+  },
+  {
+   "name": "Fontsource",
+   "url": "https://fontsource.org",
+   "repo": "fontsource/fontsource",
+   "desc": "Open fonts packaged as npm modules for self-hosting without a font CDN",
+   "license": "MIT",
+   "stars": 6301,
+   "pushed": "2026-11-09",
+   "category": "Open fonts & type"
+  },
+  {
+   "name": "The League of Moveable Type",
+   "url": "https://www.theleagueofmoveabletype.com",
+   "repo": null,
+   "desc": "Small foundry of carefully made open-source typefaces",
+   "license": "OFL-1.1",
+   "stars": null,
+   "pushed": null,
+   "category": "Open fonts & type"
+  },
+  {
+   "name": "FontTools",
+   "url": "https://github.com/fonttools/fonttools",
+   "repo": "fonttools/fonttools",
+   "desc": "Python library and CLI to read, subset, convert and edit font files",
+   "license": "MIT",
+   "stars": 5339,
+   "pushed": "2026-11-25",
+   "category": "Open fonts & type"
+  },
+  {
+   "name": "FontForge",
+   "url": "https://fontforge.org",
+   "repo": "fontforge/fontforge",
+   "desc": "Font editor for drawing glyphs and generating OpenType and web fonts",
+   "license": "GPL-3.0",
+   "stars": 8101,
+   "pushed": "2026-11-23",
+   "category": "Open fonts & type"
+  },
+  {
+   "name": "Color.js",
+   "url": "https://colorjs.io",
+   "repo": "color-js/color.js",
+   "desc": "Colour library with CSS Color 4 spaces, OKLCH, gamut mapping and contrast maths",
+   "license": "MIT",
+   "stars": 2329,
+   "pushed": "2026-11-24",
+   "category": "Colour & palette tools"
+  },
+  {
+   "name": "chroma.js",
+   "url": "https://gka.github.io/chroma.js/",
+   "repo": "gka/chroma.js",
+   "desc": "Small JS library for colour conversion, scales and palette interpolation",
+   "license": "BSD-3-Clause",
+   "stars": 10604,
+   "pushed": "2026-11-16",
+   "category": "Colour & palette tools"
+  },
+  {
+   "name": "poline",
+   "url": "https://meodai.github.io/poline/",
+   "repo": "meodai/poline",
+   "desc": "Generates palettes by walking a line through colour space between anchor points",
+   "license": "MIT",
+   "stars": 1270,
+   "pushed": "2026-06-28",
+   "category": "Colour & palette tools"
+  },
+  {
+   "name": "Adobe Leonardo",
+   "url": "https://leonardocolor.io",
+   "repo": "adobe/leonardo",
+   "desc": "Builds contrast-targeted colour scales for accessible design systems",
+   "license": "Apache-2.0",
+   "stars": 2196,
+   "pushed": "2026-07-08",
+   "category": "Colour & palette tools"
+  },
+  {
+   "name": "Radix Colors",
+   "url": "https://www.radix-ui.com/colors",
+   "repo": "radix-ui/colors",
+   "desc": "12-step colour scales with matching dark mode, designed for UI",
+   "license": "MIT",
+   "stars": 1750,
+   "pushed": "2025-12-17",
+   "category": "Colour & palette tools"
+  },
+  {
+   "name": "ColorBrewer",
+   "url": "https://colorbrewer2.org",
+   "repo": "axismaps/colorbrewer",
+   "desc": "Classic cartographic palettes, sequential, diverging and qualitative, with colour-blind flags",
+   "license": "Apache-2.0",
+   "stars": 1121,
+   "pushed": "2026-02-25",
+   "category": "Colour & palette tools"
+  },
+  {
+   "name": "Catppuccin",
+   "url": "https://catppuccin.com",
+   "repo": "catppuccin/catppuccin",
+   "desc": "Pastel colour scheme in four flavours with ports for hundreds of tools",
+   "license": "MIT",
+   "stars": 19979,
+   "pushed": "2026-07-25",
+   "category": "Colour & palette tools"
+  },
+  {
+   "name": "color-names",
+   "url": "https://github.com/meodai/color-names",
+   "repo": "meodai/color-names",
+   "desc": "Large list of human-readable colour names, with an API for naming any hex",
+   "license": "MIT",
+   "stars": 3116,
+   "pushed": "2026-11-19",
+   "category": "Colour & palette tools"
+  },
+  {
+   "name": "uiGradients",
+   "url": "https://uigradients.com",
+   "repo": "ghosh/uiGradients",
+   "desc": "Curated gradient collection with JSON data and CSS output",
+   "license": "MIT",
+   "stars": 6031,
+   "pushed": "2026-03-16",
+   "category": "Colour & palette tools"
+  },
+  {
+   "name": "p5.js",
+   "url": "https://p5js.org",
+   "repo": "processing/p5.js",
+   "desc": "Processing's friendly JavaScript sketching library for the browser",
+   "license": "LGPL-2.1",
+   "stars": 24432,
+   "pushed": "2026-11-24",
+   "category": "Generative & creative coding"
+  },
+  {
+   "name": "Processing",
+   "url": "https://processing.org",
+   "repo": "processing/processing4",
+   "desc": "The original Java sketchbook for learning to code visual art",
+   "license": "GPL-2.0",
+   "stars": 549,
+   "pushed": "2026-11-24",
+   "category": "Generative & creative coding"
+  },
+  {
+   "name": "three.js",
+   "url": "https://threejs.org",
+   "repo": "mrdoob/three.js",
+   "desc": "Standard WebGL and WebGPU 3D library for the web",
+   "license": "MIT",
+   "stars": 119390,
+   "pushed": "2026-11-25",
+   "category": "Generative & creative coding"
+  },
+  {
+   "name": "Paper.js",
+   "url": "http://paperjs.org",
+   "repo": "paperjs/paper.js",
+   "desc": "Vector graphics scripting framework on top of canvas, with a clean path API",
+   "license": "MIT",
+   "stars": 15213,
+   "pushed": "2026-11-25",
+   "category": "Generative & creative coding"
+  },
+  {
+   "name": "Two.js",
+   "url": "https://two.js.org",
+   "repo": "jonobr1/two.js",
+   "desc": "Renderer-agnostic 2D drawing API for SVG, canvas and WebGL",
+   "license": "MIT",
+   "stars": 8769,
+   "pushed": "2026-11-25",
+   "category": "Generative & creative coding"
+  },
+  {
+   "name": "canvas-sketch",
+   "url": "https://github.com/mattdesl/canvas-sketch",
+   "repo": "mattdesl/canvas-sketch",
+   "desc": "Framework for print-ready generative sketches with hot reload and PNG, SVG and video export",
+   "license": "MIT",
+   "stars": 5333,
+   "pushed": "2026-06-02",
+   "category": "Generative & creative coding"
+  },
+  {
+   "name": "OPENRNDR",
+   "url": "https://openrndr.org",
+   "repo": "openrndr/openrndr",
+   "desc": "Kotlin framework for creative coding, live-coding and real-time graphics",
+   "license": "BSD-2-Clause",
+   "stars": 989,
+   "pushed": "2026-11-24",
+   "category": "Generative & creative coding"
+  },
+  {
+   "name": "nannou",
+   "url": "https://nannou.cc",
+   "repo": "nannou-org/nannou",
+   "desc": "Creative coding framework for Rust, with Processing-style sketches and GPU rendering",
+   "license": "MIT",
+   "stars": 6793,
+   "pushed": "2026-11-09",
+   "category": "Generative & creative coding"
+  },
+  {
+   "name": "NodeBox",
+   "url": "https://www.nodebox.net",
+   "repo": "nodebox/nodebox",
+   "desc": "Node-based generative design app that outputs vectors",
+   "license": "GPL-2.0",
+   "stars": 794,
+   "pushed": "2026-11-04",
+   "category": "Generative & creative coding"
+  },
+  {
+   "name": "Shader Park",
+   "url": "https://shader-park.com",
+   "repo": "shader-park/shader-park-core",
+   "desc": "Write 3D shapes in JavaScript-like code that compiles to GLSL",
+   "license": "MIT",
+   "stars": 833,
+   "pushed": "2026-10-05",
+   "category": "Generative & creative coding"
+  },
+  {
+   "name": "Motion Canvas",
+   "url": "https://motioncanvas.io",
+   "repo": "motion-canvas/motion-canvas",
+   "desc": "Code animated vector graphics in TypeScript with a live editor and video export",
+   "license": "MIT",
+   "stars": 20232,
+   "pushed": "2026-07-02",
+   "category": "Generative & creative coding"
+  },
+  {
+   "name": "Lottie Web",
+   "url": "https://airbnb.io/lottie/",
+   "repo": "airbnb/lottie-web",
+   "desc": "Plays After Effects animations exported as JSON in the browser",
+   "license": "MIT",
+   "stars": 32586,
+   "pushed": "2025-09-01",
+   "category": "Generative & creative coding"
+  },
+  {
+   "name": "Carbon Design System",
+   "url": "https://carbondesignsystem.com",
+   "repo": "carbon-design-system/carbon",
+   "desc": "IBM's design system with React and web components, tokens and guidelines",
+   "license": "Apache-2.0",
+   "stars": 9646,
+   "pushed": "2026-11-25",
+   "category": "Design systems & UI kits"
+  },
+  {
+   "name": "GOV.UK Frontend",
+   "url": "https://frontend.design-system.service.gov.uk",
+   "repo": "alphagov/govuk-frontend",
+   "desc": "UK government components and styles; code is MIT, the crown logo and font are restricted",
+   "license": "MIT",
+   "stars": 1483,
+   "pushed": "2026-11-25",
+   "category": "Design systems & UI kits"
+  },
+  {
+   "name": "Primer React",
+   "url": "https://primer.style",
+   "repo": "primer/react",
+   "desc": "GitHub's React component library and design system",
+   "license": "MIT",
+   "stars": 3941,
+   "pushed": "2026-11-25",
+   "category": "Design systems & UI kits"
+  },
+  {
+   "name": "PatternFly",
+   "url": "https://www.patternfly.org",
+   "repo": "patternfly/patternfly",
+   "desc": "Red Hat's enterprise design system with components and guidelines",
+   "license": "MIT",
+   "stars": 825,
+   "pushed": "2026-11-25",
+   "category": "Design systems & UI kits"
+  },
+  {
+   "name": "shadcn/ui",
+   "url": "https://ui.shadcn.com",
+   "repo": "shadcn-ui/ui",
+   "desc": "Copy-paste React components built on Radix and Tailwind that you own and edit",
+   "license": "MIT",
+   "stars": 129079,
+   "pushed": "2026-11-25",
+   "category": "Design systems & UI kits"
+  },
+  {
+   "name": "Radix Primitives",
+   "url": "https://www.radix-ui.com/primitives",
+   "repo": "radix-ui/primitives",
+   "desc": "Unstyled, accessible React building blocks for dialogs, menus and more",
+   "license": "MIT",
+   "stars": 19580,
+   "pushed": "2026-10-14",
+   "category": "Design systems & UI kits"
+  },
+  {
+   "name": "daisyUI",
+   "url": "https://daisyui.com",
+   "repo": "saadeghi/daisyui",
+   "desc": "Tailwind plugin that adds themed component classes such as btn and card",
+   "license": "MIT",
+   "stars": 42995,
+   "pushed": "2026-11-20",
+   "category": "Design systems & UI kits"
+  },
+  {
+   "name": "Open Props",
+   "url": "https://open-props.style",
+   "repo": "argyleink/open-props",
+   "desc": "Ready-made CSS custom properties for colours, easings, shadows and sizes",
+   "license": "MIT",
+   "stars": 5587,
+   "pushed": "2026-10-11",
+   "category": "Design systems & UI kits"
+  },
+  {
+   "name": "Material Web",
+   "url": "https://github.com/material-components/material-web",
+   "repo": "material-components/material-web",
+   "desc": "Material 3 components as framework-free web components",
+   "license": "Apache-2.0",
+   "stars": 11475,
+   "pushed": "2026-11-25",
+   "category": "Design systems & UI kits"
+  },
+  {
+   "name": "Tailwind CSS",
+   "url": "https://tailwindcss.com",
+   "repo": "tailwindlabs/tailwindcss",
+   "desc": "Utility-first CSS framework, used here as a design-token base",
+   "license": "MIT",
+   "stars": 98829,
+   "pushed": "2026-11-25",
+   "category": "Design systems & UI kits"
+  },
+  {
+   "name": "Poly Haven",
+   "url": "https://polyhaven.com",
+   "repo": null,
+   "desc": "HDRIs, PBR textures and 3D models for renders and mockups, no sign-up",
+   "license": "CC0-1.0",
+   "stars": null,
+   "pushed": null,
+   "category": "Mockups & open assets"
+  },
+  {
+   "name": "ambientCG",
+   "url": "https://ambientcg.com",
+   "repo": null,
+   "desc": "PBR materials, HDRIs and models for 3D scenes and backdrops",
+   "license": "CC0-1.0",
+   "stars": null,
+   "pushed": null,
+   "category": "Mockups & open assets"
+  },
+  {
+   "name": "Kenney",
+   "url": "https://kenney.nl",
+   "repo": null,
+   "desc": "Thousands of game and UI sprites, icons and 3D kits",
+   "license": "CC0-1.0",
+   "stars": null,
+   "pushed": null,
+   "category": "Mockups & open assets"
+  },
+  {
+   "name": "Wikimedia Commons",
+   "url": "https://commons.wikimedia.org",
+   "repo": null,
+   "desc": "Free media repository; every file shows its own licence, so check before reuse",
+   "license": "Per file",
+   "stars": null,
+   "pushed": null,
+   "category": "Mockups & open assets"
+  },
+  {
+   "name": "sharp",
+   "url": "https://sharp.pixelplumbing.com",
+   "repo": "lovell/sharp",
+   "desc": "Fast Node.js image resizing and conversion built on libvips",
+   "license": "Apache-2.0",
+   "stars": 32869,
+   "pushed": "2026-11-24",
+   "category": "Image processing & export"
+  },
+  {
+   "name": "Squoosh",
+   "url": "https://squoosh.app",
+   "repo": "GoogleChromeLabs/squoosh",
+   "desc": "In-browser image compressor with side-by-side codec comparison and a CLI",
+   "license": "Apache-2.0",
+   "stars": 26227,
+   "pushed": "2026-10-22",
+   "category": "Image processing & export"
+  },
+  {
+   "name": "SVGO",
+   "url": "https://svgo.dev",
+   "repo": "svg/svgo",
+   "desc": "Node tool that optimises SVG files by stripping metadata and redundant markup",
+   "license": "MIT",
+   "stars": 22838,
+   "pushed": "2026-11-08",
+   "category": "Image processing & export"
+  },
+  {
+   "name": "libvips",
+   "url": "https://www.libvips.org",
+   "repo": "libvips/libvips",
+   "desc": "Streaming image library that processes large files with low memory",
+   "license": "LGPL-2.1",
+   "stars": 11837,
+   "pushed": "2026-11-25",
+   "category": "Image processing & export"
+  },
+  {
+   "name": "resvg",
+   "url": "https://github.com/linebender/resvg",
+   "repo": "linebender/resvg",
+   "desc": "Small, accurate SVG renderer that turns SVG into PNG from the CLI or as a library",
+   "license": "Apache-2.0",
+   "stars": 4218,
+   "pushed": "2026-11-25",
+   "category": "Image processing & export"
+  },
+  {
+   "name": "VTracer",
+   "url": "https://www.visioncortex.org/vtracer-docs",
+   "repo": "visioncortex/vtracer",
+   "desc": "Converts raster images into SVG, including full-colour ones",
+   "license": "MIT",
+   "stars": 7610,
+   "pushed": "2026-11-23",
+   "category": "Image processing & export"
+  },
+  {
+   "name": "oxipng",
+   "url": "https://github.com/shssoichiro/oxipng",
+   "repo": "shssoichiro/oxipng",
+   "desc": "Multithreaded lossless PNG optimiser written in Rust",
+   "license": "MIT",
+   "stars": 4337,
+   "pushed": "2026-11-13",
+   "category": "Image processing & export"
+  },
+  {
+   "name": "rembg",
+   "url": "https://github.com/danielgatis/rembg",
+   "repo": "danielgatis/rembg",
+   "desc": "Removes image backgrounds locally via CLI, library or server; model weights carry their own terms",
+   "license": "MIT",
+   "stars": 25681,
+   "pushed": "2026-11-24",
+   "category": "Image processing & export"
+  },
+  {
+   "name": "libjxl",
+   "url": "https://github.com/libjxl/libjxl",
+   "repo": "libjxl/libjxl",
+   "desc": "Reference encoder and decoder for JPEG XL",
+   "license": "BSD-3-Clause",
+   "stars": 3870,
+   "pushed": "2026-11-25",
+   "category": "Image processing & export"
+  },
+  {
+   "name": "FFmpeg",
+   "url": "https://ffmpeg.org",
+   "repo": "FFmpeg/FFmpeg",
+   "desc": "Command-line tool for converting, cutting and filtering video, audio and image sequences",
+   "license": "LGPL-2.1",
+   "stars": 68187,
+   "pushed": "2026-11-25",
+   "category": "Image processing & export"
+  },
+  {
+   "name": "Satori",
+   "url": "https://github.com/vercel/satori",
+   "repo": "vercel/satori",
+   "desc": "Turns HTML and CSS into SVG, commonly used to render social cards without a browser",
+   "license": "MPL-2.0",
+   "stars": 14218,
+   "pushed": "2026-11-25",
+   "category": "Image processing & export"
+  },
+  {
+   "name": "riso-colors",
+   "url": "https://github.com/mattdesl/riso-colors",
+   "repo": "mattdesl/riso-colors",
+   "desc": "JSON list of risograph ink colours with hex values; old but still the standard reference",
+   "license": "MIT",
+   "stars": 79,
+   "pushed": "2019-02-25",
+   "category": "Print, riso & dithering"
+  },
+  {
+   "name": "didder",
+   "url": "https://github.com/makew0rld/didder",
+   "repo": "makew0rld/didder",
+   "desc": "Command-line image dithering with many error-diffusion and ordered methods and custom palettes",
+   "license": "GPL-3.0",
+   "stars": 533,
+   "pushed": "2026-02-04",
+   "category": "Print, riso & dithering"
+  },
+  {
+   "name": "Image-to-Pixel",
+   "url": "https://github.com/Tezumie/Image-to-Pixel",
+   "repo": "Tezumie/Image-to-Pixel",
+   "desc": "Editor and JS API that converts images to pixel art with dithering and palette control",
+   "license": "MIT",
+   "stars": 571,
+   "pushed": "2026-11-11",
+   "category": "Print, riso & dithering"
+  },
+  {
+   "name": "Ditherista",
+   "url": "https://github.com/robertkist/ditherista",
+   "repo": "robertkist/ditherista",
+   "desc": "Desktop dithering app for Windows, Linux and macOS with many algorithms",
+   "license": "MIT",
+   "stars": 315,
+   "pushed": "2025-10-16",
+   "category": "Print, riso & dithering"
+  },
+  {
+   "name": "dithering-shader",
+   "url": "https://github.com/niccolofanton/dithering-shader",
+   "repo": "niccolofanton/dithering-shader",
+   "desc": "Real-time Bayer dithering post-effect for React Three Fiber scenes",
+   "license": "MIT",
+   "stars": 298,
+   "pushed": "2026-09-20",
+   "category": "Print, riso & dithering"
+  },
+  {
+   "name": "riso-windowseat",
+   "url": "https://github.com/sevenevesai/riso-windowseat",
+   "repo": "sevenevesai/riso-windowseat",
+   "desc": "Procedural risograph-style animated films, each in a single HTML file",
+   "license": "MIT",
+   "stars": 326,
+   "pushed": "2026-10-28",
+   "category": "Print, riso & dithering"
+  },
+  {
+   "name": "mono-color-skill",
+   "url": "https://github.com/yanliudesign/mono-color-skill",
+   "repo": "yanliudesign/mono-color-skill",
+   "desc": "Agent skill for one-ink editorial images with halftone photography and warm paper tones",
+   "license": "MIT",
+   "stars": 3736,
+   "pushed": "2026-09-02",
+   "category": "Print, riso & dithering"
+  },
+  {
+   "name": "Typst",
+   "url": "https://typst.app",
+   "repo": "typst/typst",
+   "desc": "Markup-based typesetting system that compiles fast to PDF, an alternative to LaTeX",
+   "license": "Apache-2.0",
+   "stars": 57418,
+   "pushed": "2026-11-24",
+   "category": "Print, riso & dithering"
+  },
+  {
+   "name": "WeasyPrint",
+   "url": "https://weasyprint.org",
+   "repo": "Kozea/WeasyPrint",
+   "desc": "Renders HTML and CSS to print-ready PDF without a browser",
+   "license": "BSD-3-Clause",
+   "stars": 9810,
+   "pushed": "2026-11-24",
+   "category": "Print, riso & dithering"
+  },
+  {
+   "name": "Marp",
+   "url": "https://marp.app",
+   "repo": "marp-team/marp",
+   "desc": "Markdown to slide decks and PDF, with CLI and editor integration",
+   "license": "MIT",
+   "stars": 12789,
+   "pushed": "2026-11-07",
+   "category": "Print, riso & dithering"
+  },
+  {
+   "name": "Slidev",
+   "url": "https://sli.dev",
+   "repo": "slidevjs/slidev",
+   "desc": "Developer-oriented slides written in Markdown and Vue, exportable to PDF and PNG",
+   "license": "MIT",
+   "stars": 49635,
+   "pushed": "2026-11-05",
+   "category": "Print, riso & dithering"
+  },
+  {
+   "name": "Levni",
+   "url": "https://levni.dev",
+   "repo": "Levni-Dev/levni",
+   "desc": "Design engine for agents: draws covers, icons and posters from JSON, with MCP and CLI, no image model",
+   "license": "MIT + CC BY 4.0",
+   "stars": 0,
+   "pushed": "2026-11-25",
+   "category": "Design for agents"
+  },
+  {
+   "name": "Impeccable",
+   "url": "https://github.com/pbakaus/impeccable",
+   "repo": "pbakaus/impeccable",
+   "desc": "Design vocabulary and commands for coding agents to steer, critique and audit front-end work",
+   "license": "Apache-2.0",
+   "stars": 116841,
+   "pushed": "2026-11-25",
+   "category": "Design for agents"
+  },
+  {
+   "name": "Anthropic Agent Skills",
+   "url": "https://github.com/anthropics/skills",
+   "repo": "anthropics/skills",
+   "desc": "Reference skills including frontend-design, canvas-design and algorithmic-art for agents",
+   "license": "Apache-2.0",
+   "stars": 200471,
+   "pushed": "2026-11-16",
+   "category": "Design for agents"
+  },
+  {
+   "name": "claude-drawing-skill",
+   "url": "https://github.com/cloveric/claude-drawing-skill",
+   "repo": "cloveric/claude-drawing-skill",
+   "desc": "Skill for procedural illustration in 83 styles with numpy and Pillow on CPU, no image model",
+   "license": "MIT",
+   "stars": 409,
+   "pushed": "2026-11-08",
+   "category": "Design for agents"
+  },
+  {
+   "name": "Onlook",
+   "url": "https://github.com/onlook-dev/onlook",
+   "repo": "onlook-dev/onlook",
+   "desc": "Open-source visual editor where you design on a live React app and AI edits the code",
+   "license": "Apache-2.0",
+   "stars": 27941,
+   "pushed": "2026-11-25",
+   "category": "Design for agents"
+  },
+  {
+   "name": "Mermaid CLI",
+   "url": "https://github.com/mermaid-js/mermaid-cli",
+   "repo": "mermaid-js/mermaid-cli",
+   "desc": "Command-line renderer from Mermaid text to SVG, PNG or PDF, handy for agent output",
+   "license": "MIT",
+   "stars": 5196,
+   "pushed": "2026-11-23",
+   "category": "Design for agents"
+  },
+  {
+   "name": "Playwright",
+   "url": "https://playwright.dev",
+   "repo": "microsoft/playwright",
+   "desc": "Browser automation that agents use to screenshot HTML designs and check layouts",
+   "license": "Apache-2.0",
+   "stars": 101068,
+   "pushed": "2026-11-25",
+   "category": "Design for agents"
+  }
+ ],
+ "hosted": []
+}

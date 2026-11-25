@@ -1,0 +1,42 @@
+name: Suggest a project
+description: Suggest a project for this list. Open and free only.
+labels: ["suggestion"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        This list collects open-source design tools and openly licensed design resources. Rule of the house: **no FOMO, only open**. Your own project is welcome.
+  - type: input
+    id: name
+    attributes:
+      label: Name
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Link
+      description: Repository or homepage.
+    validations:
+      required: true
+  - type: input
+    id: licence
+    attributes:
+      label: Licence
+      description: e.g. MIT, Apache-2.0, OFL-1.1, CC BY 4.0
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What does it do?
+      description: One or two plain sentences. What can someone make or do with it today?
+    validations:
+      required: true
+  - type: dropdown
+    id: relation
+    attributes:
+      label: Your relation to it
+      options: ["I made it / I maintain it", "I use it", "I just found it"]
+    validations:
+      required: true

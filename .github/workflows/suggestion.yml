@@ -1,0 +1,29 @@
+# Turns a labelled suggestion issue into a draft pull request with Claude.
+# Off until the repository variable CLAUDE_ENABLED is "true" and the secret
+# CLAUDE_CODE_OAUTH_TOKEN (from `claude setup-token`) or ANTHROPIC_API_KEY is set.
+name: Suggestion to PR
+on:
+  issues:
+    types: [labeled]
+permissions:
+  contents: write
+  pull-requests: write
+  issues: write
+  id-token: write
+jobs:
+  draft:
+    if: github.event.label.name == 'accepted' && vars.CLAUDE_ENABLED == 'true'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: anthropics/claude-code-action@v1
+        with:
+          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
+          prompt: |
+            Issue #${{ github.event.issue.number }} suggests a project for this list and a maintainer accepted it.
+            Read the issue. Verify the project: it exists, its licence is open, it is not archived.
+            If it fails a rule in CONTRIBUTING.md, comment on the issue saying which one and stop.
+            Otherwise add exactly one line to the best section of README.md in the format from CONTRIBUTING.md
+            (plain description, under 110 characters, no hype), add it to data/entries.json, and open a pull request
+            titled "Add <name>" that says "Closes #${{ github.event.issue.number }}" and thanks the person who suggested it.

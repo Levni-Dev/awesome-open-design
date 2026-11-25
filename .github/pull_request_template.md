@@ -1,0 +1,3 @@
+- [ ] One project, one line, in the format `- [Name](link) - What it does. \`Licence\``
+- [ ] Open licence and free to start (no credit card, no paid key)
+- [ ] Not archived, maintained
